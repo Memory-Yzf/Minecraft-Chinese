@@ -104,7 +104,7 @@
   "item-ability.formidulus.soulsteal": "噬魂",
   "item-ability.formidulus.soulsteal.desc0": "造成伤害时剥离目标的灵魂。",
   "item-ability.formidulus.soulsteal.desc1": "随后将吞噬剥离的灵魂以恢复生命值。",
-  "item-ability.formidulus.soulsteal.desc2": "+2 §b灵魂伤害\n§6无视护甲",
+  "item-ability.formidulus.soulsteal.desc2": "+2§b灵魂伤害§r；§6无视护甲§r。",
   "item-ability.formidulus.vampirism": "汲血",
   "item-ability.formidulus.vampirism.desc0": "造成伤害时恢复生命值。",
   "item.accessory_mode.active": "激活",
