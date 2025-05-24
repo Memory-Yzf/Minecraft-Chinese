@@ -1,0 +1,15 @@
+{
+  "block.agritech.agritech_planter_block": "作物种植箱",
+  "block.agritech.agritech_hopping_planter_block": "作物种植箱(漏斗型)",
+  "blockentity.agritech.name": "农业科技种植箱",
+  "creativetab.agritech.agritech": "农业科技",
+  "tooltip.agritech.agritech_planter_block": "§7用于种植作物的种植箱！",
+  "tooltip.agritech.agritech_hopping_planter_block": "§7带有漏斗的作物种植箱！",
+  "container.agritech.hopping_planter": "作物种植箱(漏斗型)",
+  "container.agritech.planter": "作物种植箱",
+  "jei.agritech.planter.tooltip": "种植箱",
+  "message.agritech.invalid_seed_soil_combination": "这颗种子不能在这种土壤中生长！",
+  "message.agritech.invalid_soil": "此方块不能用作土壤！",
+  "message.agritech.slots_full": "种植箱已满！",
+  "message.agritech.same_farmland": "这块农田已经是这种类型了！"
+}
