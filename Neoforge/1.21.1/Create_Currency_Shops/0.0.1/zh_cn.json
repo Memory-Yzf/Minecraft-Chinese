@@ -1,0 +1,10 @@
+{
+  "item.create_currency_shops.currency_item": "货币",
+  "item.create_currency_shops.brass_coin": "黄铜币",
+  "item.create_currency_shops.copper_coin": "铜币",
+  "item.create_currency_shops.gold_coin": "金币",
+  "item.create_currency_shops.iron_coin": "铁币",
+  "item.create_currency_shops.netherite_coin": "下界合金币",
+  "item.create_currency_shops.zinc_coin": "锌币",
+  "itemGroup.create_currency_shops.base": "机械动力丨货币商店"
+}
