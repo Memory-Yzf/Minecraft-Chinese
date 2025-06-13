@@ -1,0 +1,11 @@
+{
+  "screen.togenc.title" : "附魔开关",
+  "key.togenc.title" : "附魔开关",
+  "key.togenc.open_menu" : "附魔开关菜单",
+  "screen.togenc.blacklist.tooltip": "此附魔已被黑名单",
+  "screen.togenc.curse.tooltip": "诅咒无法进行切换",
+  "screen.togenc.enabled.tooltip": "点击启用",
+  "screen.togenc.disabled.tooltip": "点击禁用",
+  "screen.togenc.negative.tooltip": "负等级无法进行切换",
+  "screen.togenc.enchantment.disabled": "[禁用]"
+}
