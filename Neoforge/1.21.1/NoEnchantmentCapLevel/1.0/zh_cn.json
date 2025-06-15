@@ -1,3 +1,3 @@
 {
-  "commands.enchant.failed.banned": "等级 %s 已被禁用！"
+  "commands.enchant.failed.banned": "等级[%s]已被禁用！"
 }
